@@ -36,12 +36,11 @@ body{
   width: 78px;
   height: 78px;
   border-radius: 100%;
-  backdrop-filter: blur(3px);
   background-color: var(--secondary-color-50-opc);
 }
 .watermark-logo img {
   width: 100%;
-  height: 100%;
+  height:auto;
 }
 
 .carroussel {
